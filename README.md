@@ -22,4 +22,4 @@ This is provides syntax highlighting for [TOML][toml] in Notepad++. Current vers
 [toml]: https://github.com/toml-lang/toml
 [currver]: https://github.com/toml-lang/toml/releases
 [rawTOML]: https://raw.githubusercontent.com/Theodor-Lindberg/NPP-TOML-Syntax/master/TOML.xml
-[rawTOML(dark)]: https://raw.githubusercontent.com/tst32/NPP-TOML-Syntax/master/toml(dark).xml
+[rawTOML(dark)]: https://raw.githubusercontent.com/tst32/NPP-TOML-Syntax/master/TOML(DansLeRuSH-Dark).xml
